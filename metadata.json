@@ -1,0 +1,5 @@
+{
+  "name": "Cyber Fortune Telling (赛博算命)",
+  "description": "A digital recreation of traditional Chinese fortune stick drawing (Kau Chim). Features a high-fidelity 'Cyber' aesthetic with traditional elements, physics-based animations, and strictly auspicious results (High Luck only). Built for WeChat Mini Program prototyping via React.",
+  "requestFramePermissions": []
+}
